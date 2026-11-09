@@ -1,21 +1,48 @@
-# Security Policy
+Security Policy
 
-## Supported Versions
+Xplushop.luxfy
 
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
+Thank you for helping keep Xplushop.luxfy secure.
 
-| Version | Supported          |
-| ------- | ------------------ |
-| 5.1.x   | :white_check_mark: |
-| 5.0.x   | :x:                |
-| 4.0.x   | :white_check_mark: |
-| < 4.0   | :x:                |
+We take the security of our website, users, and services seriously.
 
-## Reporting a Vulnerability
+Supported Versions
 
-Use this section to tell people how to report a vulnerability.
+Security updates are applied to the latest maintained version of Xplushop.luxfy.
 
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
+Version| Supported
+Latest| Yes
+Older versions| No
+
+Reporting a Vulnerability
+
+If you discover a security vulnerability, please report it responsibly.
+
+When reporting an issue, include:
+
+- A clear description of the vulnerability.
+- Steps to reproduce the issue.
+- The potential security impact.
+- Screenshots or proof of concept, if available.
+
+Please do not publicly disclose security vulnerabilities before they have been reviewed and addressed.
+
+Security Best Practices
+
+We aim to:
+
+- Keep website dependencies and software updated.
+- Protect sensitive information and user data.
+- Never expose API keys, passwords, or private credentials in public repositories.
+- Use HTTPS to protect connections.
+- Review third-party integrations and services.
+- Address reported security issues promptly.
+
+Responsible Disclosure
+
+We appreciate responsible security researchers who help improve the safety and reliability of Xplushop.luxfy.
+
+Thank you for helping protect our users and our platform.
+
+Website: https://xplushop.xyz/
+GitHub: https://github.com/xplushopxyz/xplushop.luxfy
